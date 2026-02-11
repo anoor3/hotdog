@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  hotdog
-//
-//  Created by Abdullah Noor on 2/10/26.
-//
-
 import SwiftUI
 import Vision
 import CoreImage
