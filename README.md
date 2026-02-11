@@ -1,6 +1,6 @@
-# HotDOG or Not
+# SEEFOOD - HotDOG or Not
 
-HOTDOG is a playful, fully native SwiftUI recreation of the “Not Hotdog” app from HBO’s Silicon Valley. Point your camera (or pick any photo) and the app instantly calls out whether you’re staring at a bona fide hotdog or a pretender, complete with the bold, tongue-in-cheek UI from the show.
+SEEFOOD is a playful, fully native SwiftUI recreation of the “Not Hotdog” app from HBO’s Silicon Valley. Point your camera (or pick any photo) and the app instantly calls out whether you’re staring at a bona fide hotdog or a pretender, complete with the bold, tongue-in-cheek UI from the show.
 
 ## Features
 - **Instant classification** – Uses Apple’s on-device Vision framework (`VNClassifyImageRequest`) to spot hotdogs with minimal latency and without sending data off-device.
