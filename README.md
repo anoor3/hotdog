@@ -2,6 +2,9 @@
 
 SEEFOOD is a playful, fully native SwiftUI recreation of the “Not Hotdog” app from HBO’s Silicon Valley. Point your camera (or pick any photo) and the app instantly calls out whether you’re staring at a bona fide hotdog or a pretender, complete with the bold, tongue-in-cheek UI from the show.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Noor-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-noor1/)
+[![Email](https://img.shields.io/badge/Email-abdullahnoorllc%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:abdullahnoorllc@gmail.com)
+
 ## Features
 - **Instant classification** – Uses Apple’s on-device Vision framework (`VNClassifyImageRequest`) to spot hotdogs with minimal latency and without sending data off-device.
 - **Camera & gallery support** – Snap photos in the moment or analyze anything from your library using the custom image picker wrapper.
